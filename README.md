@@ -14,3 +14,6 @@ The first guest is the username used to authenticate with the message broker. Th
 why the total number of queue is as such (in my machine is 20, what about yours?)</h3>
 <img src= "images/spikes1.jpg">
 The total number of queues is the amount of times we ran the publisher program.
+
+<h2>Reflection 3</h2>
+<img src= "images/spikes2.jpg">
